@@ -1,0 +1,8 @@
+# Ignore Rules:
+
+# Vitrual Environments:
+.venv/
+.idea/
+
+# Environment Variables:
+.env
